@@ -1,4 +1,4 @@
-# 愛してる
+# 愛してる - れるりり feat.初音ミク
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/urF_AbehXFU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -18,11 +18,11 @@ Movie まきのせな
 
 ## 字幕
 
-愛してる　愛してる　愛してる　愛してる  
+愛してる 愛してる 愛してる 愛してる  
 .i mi prami .i mi prami .i mi prami .i mi prami
 
 何度も言うよ  
-.i mi ro roi cusku
+.i mi za'u re'u cusku
 
 そう君に伝えるために  
 .i ki'u lo nu cusku do de'u
@@ -74,7 +74,7 @@ kei mi kunti
 
 ---
 
-愛してる　愛してる　愛してる　愛してる  
+愛してる 愛してる 愛してる 愛してる  
 .i mi prami .i mi prami .i mi prami .i mi prami
 
 何度も言うよ  
@@ -88,49 +88,87 @@ kei mi jbena
 
 ---
 
-この気持ちを口にすれば
-薄っぺらなものなんだけど
-それ以上に相応しい
-言葉を知らないんだ
+この気持ちを口にすれば  
+.i ca lo nu mi cusku tu'a lo se pensi
+
+薄っぺらなものなんだけど  
+kei ra cinla pensi .i ku'i
+
+それ以上に相応しい  
+fe lo mapti zmadu
+
+言葉を知らないんだ  
+valsi mi na djuno
 
 ---
 
-小さなことに　こだわって
+小さなことに こだわって
+.i ri'a lo nu mi cinla jinvi rinju
+
 大事なものを見失ってた
-でも　やっと君の手を
-しっかり　つかまえられたよ
+kei mi cirko lo dirba
+
+でも やっと君の手を  
+.i ku'i .u'a fe lo do xance
+
+しっかり つかまえられたよ  
+mi tagji kavbu
 
 ---
 
-愛してる　愛してる　愛してる　愛してる  
+愛してる 愛してる 愛してる 愛してる  
 .i mi prami .i mi prami .i mi prami .i mi prami
 
-あんまりにも
-ありきたりな言葉だけれど
-君にしか言えないよ
+あんまりにも  
+ti mutce
+
+ありきたりな言葉だけれど  
+ti mutce be lo ka fadni kei ku valsi .i ku'i
+
+君にしか言えないよ  
+do po'o te cusku
 
 ---
 
-歳をとって
-僕の名前を忘れても
-わけのわからない言葉を
-喋るようになっても
-ずっと君のそばで
-囁いていたい
+歳をとって  
+.i da'i nanca zenba gi'e
+
+僕の名前を忘れても  
+tolmo'i lo mi cmene gi'e
+
+わけのわからない言葉を  
+gi'e fe lo smuni na'e valsi
+
+喋るようになっても  
+cu cusku
+
+ずっと君のそばで  
+.i mi djica lo nu vi do
+
+囁いていたい  
+ro roi smasku
 
 ---
 
-愛してる　愛してる　愛してる　愛してる  
+愛してる 愛してる 愛してる 愛してる  
 .i mi prami .i mi prami .i mi prami .i mi prami
 
-こんなにも
-涙が溢れてくるなんて
+こんなにも  
+.i .ue .ui
+
+涙が溢れてくるなんて  
+lo kansa se cigla cu culno
 
 ---
 
-愛してる　愛してる　愛してる　愛してる  
+愛してる 愛してる 愛してる 愛してる  
 .i mi prami .i mi prami .i mi prami .i mi prami
 
-どんなことだって
-君とならきっと大丈夫
-一緒に歩いていこう
+どんなことだって  
+.i fe ro fasnu
+
+君とならきっと大丈夫  
+ca lo nu va do zvati cu snura
+
+一緒に歩いていこう  
+.i .ai mi joi do kansa
