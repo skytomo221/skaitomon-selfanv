@@ -123,7 +123,7 @@ mi tagji kavbu
 ti mutce
 
 ありきたりな言葉だけれど  
-ti mutce be lo ka fadni kei ku valsi .i ku'i
+be lo ka fadni kei ku valsi .i ku'i
 
 君にしか言えないよ  
 do po'o te cusku

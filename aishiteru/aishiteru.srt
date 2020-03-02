@@ -1,0 +1,299 @@
+1
+00:00:00,000 --> 00:00:10,500
+愛してる
+<i>aishiteru</i>
+.i mi prami
+
+2
+00:00:11,000 --> 00:00:13,000
+何度も言うよ
+<i>nan do mo yū yo</i>
+.i mi ro roi cusku
+
+3
+00:00:13,500 --> 00:00:19,500
+そう君に伝えるために
+<i>sō kimi ni tsutaeru tame ni</i>
+.i ki'u lo nu cusku do de'u
+
+4
+00:00:19,700 --> 00:00:24,500
+生まれてきたんだから
+<i>umarete kita n da kara</i>
+kei mi jbena
+
+5
+00:00:25,000 --> 00:00:32,000
+愛してる
+<i>aishiteru</i>
+<b>.i mi prami</b>
+
+6
+00:00:34,000 --> 00:00:36,500
+Music & Lyrics れるりり
+<i>Music & Lyrics rerulili</i>
+<i>.i la'o py .rerulili. py zgike finti gi'e pemci finti</i>
+
+7
+00:00:36,500 --> 00:00:38,500
+Vocal 初音ミク
+<i>Vocal Hatsune Miku</i>
+<i>.i la .xatsunen.mik. sanga</i>
+
+8
+00:00:38,500 --> 00:00:40,500
+Illustration みさぎ和
+<i>Illustration みさぎ和</i>
+<i>.i la'o py .みさぎ和. py te pixra</i>
+
+9
+00:00:40,500 --> 00:00:43,000
+Movie まきのせな
+<i>Movie Makinosena</i>
+<i>.i la'o py .makinosena. py te skina</i>
+
+10
+00:00:44,000 --> 00:00:49,000
+時計の針は午前三時
+<i>tokei no hari wa gozen san ji</i>
+.i junla jesni ti'u li ci
+
+11
+00:00:49,000 --> 00:00:55,000
+突然 君からの着信
+<i>totsuzen kimi kara no chakushin</i>
+.i do suksa fonjorne
+
+12
+00:00:55,000 --> 00:01:00,000
+こんな時間に非常識だなぁ
+<i>konna jikan ni hi jōshiki da nā</i>
+.i .oi ti'u tolfadni
+
+13
+00:01:00,000 --> 00:01:05,000
+だけど少し嬉しいよ
+<i>da kedo sukoshi ureshī yo</i>
+.i ku'i .uiru'e mi gleki
+
+14
+00:01:05,500 --> 00:01:10,500
+眠たい目 擦りながら
+<i>nemutai me kosuri nagara</i>
+.i mosra pencu lo sipna djica kanla
+
+15
+00:01:10,500 --> 00:01:16,000
+電話越しの君の声
+<i>denwa-goshi no kimi no koe</i>
+.i lo do fonxa voksa
+
+16
+00:01:16,000 --> 00:01:21,500
+他愛もない会話だけど
+<i>tawai mo nai kaiwa da kedo</i>
+.i junri na'e casnu
+
+17
+00:01:21,500 --> 00:01:26,000
+幸せだと思えんたんだ
+<i>shiawase da to omoeta n da</i>
+.i ku'i mi jinvi lo du'u gleki
+
+18
+00:01:26,500 --> 00:01:32,000
+些細なことですれ違って
+<i>sasai na koto de surechigatte</i>
+.i mi tolba'i jimpe srera
+
+19
+00:01:32,500 --> 00:01:37,000
+喧嘩してしまうこともあった
+<i>kenka shite shimau koto mo atta</i>
+.ije pu su'o roi da'arta'a
+
+20
+00:01:37,000 --> 00:01:42,700
+でも君に逢うまでは
+<i>de mo kimi ni au made wa</i>
+.i ku'i pu lo nu do penmi
+
+21
+00:01:42,700 --> 00:01:48,000
+からっぽだったんだ
+<i>karappo datta n da</i>
+kei mi kunti
+
+22
+00:01:50,000 --> 00:02:00,000
+愛してる
+<i>aishiteru</i>
+.i mi prami
+
+23
+00:02:00,000 --> 00:02:02,300
+何度も言うよ
+<i>nan do mo yū yo</i>
+.i mi ro roi cusku
+
+24
+00:02:02,300 --> 00:02:08,500
+そう君に伝えるために
+<i>sō kimi ni tsutaeru tame ni</i>
+.i ki'u lo nu cusku do de'u
+
+25
+00:02:08,500 --> 00:02:15,000
+生まれてきたんだから
+<i>umarete kita n da kara</i>
+kei mi jbena
+
+26
+00:02:22,700 --> 00:02:28,200
+この気持ちを口にすれば
+<i>kono kimochi o kuchi ni sure ba</i>
+.i ca lo nu mi cusku tu'a lo se pensi
+
+27
+00:02:28,200 --> 00:02:33,000
+薄っぺらなものなんだけど
+<i>usuppera na mono na n da kedo</i>
+kei ra cinla pensi .i ku'i
+
+28
+00:02:33,000 --> 00:02:38,500
+それ以上に相応しい
+<i>sore ijō ni fusawashī</i>
+fe lo mapti zmadu
+
+29
+00:02:38,500 --> 00:02:43,500
+言葉を知らないんだ
+<i>kotoba o shiranai n da</i>
+valsi mi na djuno
+
+30
+00:02:43,500 --> 00:02:49,500
+小さなことに こだわって
+<i>chīsana koto ni kodawatte</i>
+.i ri'a lo nu mi cinla jinvi rinju
+
+31
+00:02:49,500 --> 00:02:54,500
+大事なものを見失ってた
+<i>daiji na mono o miushinatteta</i>
+kei mi cirko lo dirba
+
+32
+00:02:54,500 --> 00:03:00,000
+でも やっと君の手を
+<i>de mo yatto kimi no te o</i>
+.i ku'i .u'a fe lo do xance
+
+33
+00:03:00,000 --> 00:03:05,500
+しっかり つかまえられたよ
+<i>shikkari tsukamaerareta yo</i>
+mi tagji kavbu
+
+34
+00:03:07,000 --> 00:03:17,500
+愛してる
+<i>aishiteru</i>
+.i mi prami
+
+35
+00:03:17,500 --> 00:03:20,500
+あんまりにも
+<i>anmari ni mo</i>
+ti mutce
+
+36
+00:03:20,500 --> 00:03:26,000
+ありきたりな言葉だけれど
+<i>arikitari na kotoba da keredo</i>
+be lo ka fadni kei ku valsi .i ku'i
+
+37
+00:03:26,000 --> 00:03:30,500
+君にしか言えないよ
+<i>kimi ni shika ienai yo</i>
+do po'o te cusku
+
+38
+00:03:31,000 --> 00:03:33,000
+歳をとって
+<i>toshi o totte</i>
+.i da'i nanca zenba gi'e
+
+39
+00:03:33,000 --> 00:03:37,300
+僕の名前を忘れても
+<i>boku no namae o wasurete mo</i>
+tolmo'i lo mi cmene gi'e
+
+40
+00:03:37,300 --> 00:03:40,000
+わけのわからない言葉を
+<i>wake no wakaranai kotoba o</i>
+gi'e fe lo smuni na'e valsi
+
+41
+00:03:40,000 --> 00:03:44,000
+喋るようになっても
+<i>shaberu yō ni natte mo</i>
+cu cusku
+
+42
+00:03:44,000 --> 00:03:48,000
+ずっと君のそばで
+<i>zutto kimi no soba de</i>
+.i mi djica lo nu vi do
+
+43
+00:03:48,000 --> 00:03:53,500
+囁いていたい
+<i>sasayaite itai</i>
+ro roi smasku
+
+44
+00:03:55,000 --> 00:04:05,800
+愛してる
+<i>aishiteru</i>
+.i mi prami
+
+45
+00:04:05,800 --> 00:04:08,000
+こんなにも
+<i>konna ni mo</i>
+.i .ue .ui
+
+46
+00:04:08,000 --> 00:04:14,500
+涙が溢れてくるなんて
+<i>namida ga afurete kuru nante</i>
+lo kansa se cigla cu culno
+
+47
+00:04:16,500 --> 00:04:26,700
+愛してる
+<i>aishiteru</i>
+.i mi prami
+
+48
+00:04:26,700 --> 00:04:29,500
+どんなことだって
+<i>donna koto da tte</i>
+.i fe ro fasnu
+
+49
+00:04:29,500 --> 00:04:35,500
+君とならきっと大丈夫
+<i>kimi to nara kitto daijōbu</i>
+ca lo nu va do zvati cu snura
+
+50
+00:04:35,500 --> 00:04:43,500
+一緒に歩いていこう
+<i>issho ni aruite ikō</i>
+.i .ai mi joi do kansa
